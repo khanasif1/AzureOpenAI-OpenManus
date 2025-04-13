@@ -1,7 +1,11 @@
+<p align="center">
+  <img  src="https://github.com/khanasif1/AzureOpenAI-OpenManus/blob/main/openManus/logo.png">
+</p>
+
 ## Conda Commands
 
 
-# Open Window Powershell
+### Window Powershell
 - conda create --prefix ./env python=3.12
 
 - conda env remove --prefix ./env
